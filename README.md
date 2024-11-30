@@ -2,5 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi!%20I'm%20JinWook-nl-Thank%20you%20for%20visiting&fontColor=ffffff&fontSize=90&descAlign=10)
 
+[![My Skills](https://skillicons.dev/icons?i=apple,swift)](https://skillicons.dev)  
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwl-98&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwl-98&hide_progress=false)
